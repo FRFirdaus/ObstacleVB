@@ -1,0 +1,75 @@
+c:\users\umar1\onedrive\dokumen\visual studio 2013\Projects\game yolo\game yolo\bin\Debug\game yolo.exe.config
+c:\users\umar1\onedrive\dokumen\visual studio 2013\Projects\game yolo\game yolo\bin\Debug\game yolo.exe
+c:\users\umar1\onedrive\dokumen\visual studio 2013\Projects\game yolo\game yolo\bin\Debug\game yolo.pdb
+c:\users\umar1\onedrive\dokumen\visual studio 2013\Projects\game yolo\game yolo\bin\Debug\game yolo.xml
+c:\users\umar1\onedrive\dokumen\visual studio 2013\Projects\game yolo\game yolo\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+c:\users\umar1\onedrive\dokumen\visual studio 2013\Projects\game yolo\game yolo\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+c:\users\umar1\onedrive\dokumen\visual studio 2013\Projects\game yolo\game yolo\obj\Debug\game_yolo.Form1.resources
+c:\users\umar1\onedrive\dokumen\visual studio 2013\Projects\game yolo\game yolo\obj\Debug\game_yolo.Resources.resources
+c:\users\umar1\onedrive\dokumen\visual studio 2013\Projects\game yolo\game yolo\obj\Debug\game yolo.vbproj.GenerateResource.Cache
+c:\users\umar1\onedrive\dokumen\visual studio 2013\Projects\game yolo\game yolo\obj\Debug\game yolo.exe
+c:\users\umar1\onedrive\dokumen\visual studio 2013\Projects\game yolo\game yolo\obj\Debug\game yolo.xml
+c:\users\umar1\onedrive\dokumen\visual studio 2013\Projects\game yolo\game yolo\obj\Debug\game yolo.pdb
+C:\Users\SIMPEL-06\Documents\REHAN\game yolo\game yolo\bin\Debug\game yolo.exe.config
+C:\Users\SIMPEL-06\Documents\REHAN\game yolo\game yolo\obj\Debug\game yolo.exe
+C:\Users\SIMPEL-06\Documents\REHAN\game yolo\game yolo\obj\Debug\game yolo.xml
+C:\Users\SIMPEL-06\Documents\REHAN\game yolo\game yolo\obj\Debug\game yolo.pdb
+C:\Users\SIMPEL-06\Documents\REHAN\game yolo\game yolo\bin\Debug\game yolo.exe
+C:\Users\SIMPEL-06\Documents\REHAN\game yolo\game yolo\bin\Debug\game yolo.pdb
+C:\Users\SIMPEL-06\Documents\REHAN\game yolo\game yolo\bin\Debug\game yolo.xml
+C:\Users\SIMPEL-06\Documents\REHAN\game yolo\game yolo\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\SIMPEL-06\Documents\REHAN\game yolo\game yolo\obj\Debug\game_yolo.Form1.resources
+C:\Users\SIMPEL-06\Documents\REHAN\game yolo\game yolo\obj\Debug\game_yolo.Resources.resources
+C:\Users\SIMPEL-06\Documents\REHAN\game yolo\game yolo\obj\Debug\game yolo.vbproj.GenerateResource.Cache
+C:\Users\SIMPEL-06\Documents\REHAN\game yolo\game yolo\obj\Debug\game yolo.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\REHAN\game yolo\game yolo\bin\Debug\game yolo.exe.config
+C:\Users\Asus\Documents\REHAN\game yolo\game yolo\obj\Debug\game yolo.exe
+C:\Users\Asus\Documents\REHAN\game yolo\game yolo\obj\Debug\game yolo.xml
+C:\Users\Asus\Documents\REHAN\game yolo\game yolo\obj\Debug\game yolo.pdb
+C:\Users\Asus\Documents\REHAN\game yolo\game yolo\bin\Debug\game yolo.exe
+C:\Users\Asus\Documents\REHAN\game yolo\game yolo\bin\Debug\game yolo.pdb
+C:\Users\Asus\Documents\REHAN\game yolo\game yolo\bin\Debug\game yolo.xml
+C:\Users\Asus\Documents\REHAN\game yolo\game yolo\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Asus\Documents\REHAN\game yolo\game yolo\obj\Debug\game yolo.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\REHAN\game yolo\game yolo\obj\Debug\game_yolo.Form1.resources
+C:\Users\Asus\Documents\REHAN\game yolo\game yolo\obj\Debug\game_yolo.Resources.resources
+C:\Users\Asus\Documents\REHAN\game yolo\game yolo\obj\Debug\game yolo.vbproj.GenerateResource.Cache
+D:\REHAN\game yolo\game yolo\bin\Debug\game yolo.exe.config
+D:\REHAN\game yolo\game yolo\obj\Debug\game yolo.exe
+D:\REHAN\game yolo\game yolo\obj\Debug\game yolo.xml
+D:\REHAN\game yolo\game yolo\obj\Debug\game yolo.pdb
+D:\REHAN\game yolo\game yolo\bin\Debug\game yolo.exe
+D:\REHAN\game yolo\game yolo\bin\Debug\game yolo.pdb
+D:\REHAN\game yolo\game yolo\bin\Debug\game yolo.xml
+D:\REHAN\game yolo\game yolo\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\REHAN\game yolo\game yolo\obj\Debug\game yolo.vbprojResolveAssemblyReference.cache
+D:\REHAN\game yolo\game yolo\obj\Debug\game_yolo.Form1.resources
+D:\REHAN\game yolo\game yolo\obj\Debug\game_yolo.Resources.resources
+D:\REHAN\game yolo\game yolo\obj\Debug\game yolo.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\REHAN\game yolo\game yolo\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Asus\Documents\REHAN\Game\game yolo\game yolo\bin\Debug\game yolo.exe.config
+C:\Users\Asus\Documents\REHAN\Game\game yolo\game yolo\obj\Debug\game yolo.exe
+C:\Users\Asus\Documents\REHAN\Game\game yolo\game yolo\obj\Debug\game yolo.xml
+C:\Users\Asus\Documents\REHAN\Game\game yolo\game yolo\obj\Debug\game yolo.pdb
+C:\Users\Asus\Documents\REHAN\Game\game yolo\game yolo\bin\Debug\game yolo.exe
+C:\Users\Asus\Documents\REHAN\Game\game yolo\game yolo\bin\Debug\game yolo.pdb
+C:\Users\Asus\Documents\REHAN\Game\game yolo\game yolo\bin\Debug\game yolo.xml
+C:\Users\Asus\Documents\REHAN\Game\game yolo\game yolo\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Asus\Documents\REHAN\Game\game yolo\game yolo\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Asus\Documents\REHAN\Game\game yolo\game yolo\obj\Debug\game yolo.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\REHAN\Game\game yolo\game yolo\obj\Debug\game_yolo.Form1.resources
+C:\Users\Asus\Documents\REHAN\Game\game yolo\game yolo\obj\Debug\game_yolo.Resources.resources
+C:\Users\Asus\Documents\REHAN\Game\game yolo\game yolo\obj\Debug\game yolo.vbproj.GenerateResource.Cache
+D:\REHAN\Game\game yolo\game yolo\bin\Debug\game yolo.exe.config
+D:\REHAN\Game\game yolo\game yolo\bin\Debug\game yolo.exe
+D:\REHAN\Game\game yolo\game yolo\bin\Debug\game yolo.pdb
+D:\REHAN\Game\game yolo\game yolo\bin\Debug\game yolo.xml
+D:\REHAN\Game\game yolo\game yolo\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\REHAN\Game\game yolo\game yolo\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\REHAN\Game\game yolo\game yolo\obj\Debug\game yolo.vbprojResolveAssemblyReference.cache
+D:\REHAN\Game\game yolo\game yolo\obj\Debug\game_yolo.Form1.resources
+D:\REHAN\Game\game yolo\game yolo\obj\Debug\game_yolo.Resources.resources
+D:\REHAN\Game\game yolo\game yolo\obj\Debug\game yolo.vbproj.GenerateResource.Cache
+D:\REHAN\Game\game yolo\game yolo\obj\Debug\game yolo.exe
+D:\REHAN\Game\game yolo\game yolo\obj\Debug\game yolo.xml
+D:\REHAN\Game\game yolo\game yolo\obj\Debug\game yolo.pdb
